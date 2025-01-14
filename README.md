@@ -1,6 +1,10 @@
 # Dataset_SL3D_BF
 
-
+### Link
+If you would like the full dataset, please click on the link below and contact the corresponding author to obtain the unzip password
+```
+https://cloud.tsinghua.edu.cn/published/dataset_sl3d_bf/
+```
 
 ### License
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
