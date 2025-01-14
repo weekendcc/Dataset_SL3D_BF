@@ -1,7 +1,7 @@
 # Dataset_SL3D_BF
 
 ### Link
-If you would like the full dataset, please click [here](https://cloud.tsinghua.edu.cn/published/dataset_sl3d_bf/) or URL below and contact the corresponding author to obtain the unzip password
+If you would like the full dataset, please click [here](https://cloud.tsinghua.edu.cn/published/dataset_sl3d_bf/) or URL below and contact the corresponding author to obtain the unzip password.
 ```
 https://cloud.tsinghua.edu.cn/published/dataset_sl3d_bf/
 ```
