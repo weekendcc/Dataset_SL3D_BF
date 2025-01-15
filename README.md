@@ -7,7 +7,9 @@ Two background condition: White plane and Black background(without white plane)
 Two deep learning paths: SF_AP and SF_ND
 
 ### result2pc
-Open dl_output_recon.m with MATLAB and run, it will read phase file, convert phase into a pointCloud and show. You can change the paths with your own need or just run it as an example.
+Open dl_output_recon.m with MATLAB and run, it will read phase file, convert phase into a pointCloud and show. 
+
+You can change the paths with your own need or just run it as an example.
 
 
 ### Dataset
