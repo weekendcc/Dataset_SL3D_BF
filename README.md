@@ -1,7 +1,7 @@
 # Dataset_SL3D_BF
 
 ### result2pc
-Open de_output_recon.m with MATLAB and run, it will read phase file, convert phase into a point cloud and show
+Open dl_output_recon.m with MATLAB and run, it will read phase file, convert phase into a point cloud and show
 
 
 ### Dataset
