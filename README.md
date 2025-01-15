@@ -4,7 +4,7 @@
 Open de_output_recon.m with MATLAB and run, it will read phase file, convert phase into a point cloud and show
 
 
-### Link
+### Dataset
 If you would like the full dataset, please click [here](https://cloud.tsinghua.edu.cn/published/dataset_sl3d_bf/) or URL below and contact the corresponding author to obtain the unzip password.
 ```
 https://cloud.tsinghua.edu.cn/published/dataset_sl3d_bf/
