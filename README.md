@@ -1,6 +1,6 @@
 # Dataset_SL3D_BF
 ### Black background and White plane
-We provide absolute phase and point cloud for two objects each from two datasets (four objects in total).
+We provide absolute phase and point cloud for four objects from two datasets (two per dataset).
 
 Two background conditions: White plane background and Black background(without white plane)
 
