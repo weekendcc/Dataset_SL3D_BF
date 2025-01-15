@@ -8,7 +8,7 @@ Two deep learning paths: SF_AP and SF_ND
 
 
 ### Dataset
-If you would like the full dataset, please click [here](https://cloud.tsinghua.edu.cn/published/dataset_sl3d_bf/) or URL below and contact the corresponding author to obtain the unzip password.
+If you would like to get the full dataset, please click [here](https://cloud.tsinghua.edu.cn/published/dataset_sl3d_bf/) or URL below and contact the corresponding author to obtain the unzip password.
 ```
 https://cloud.tsinghua.edu.cn/published/dataset_sl3d_bf/
 ```
