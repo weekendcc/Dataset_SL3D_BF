@@ -5,12 +5,7 @@ function: read phase file, convert phase into a point cloud and show
 Created: Sepetember 2024
 Modified: Janurary 2025
 
-Li Yiming <liyiming21@mails.tsinghua.edu.cn>
-Tsinghua Shenzhen International Graduate School, Pengcheng Laboratory 
-Li Zinan <lizn23@mails.tsinghua.edu.cn>
-Tsinghua Shenzhen International Graduate School, Tsinghua Berkeley Shenzhen Institute
-Chen Weikang <chenwk23@mails.tsinghua.edu.cn>
-Tsinghua Shenzhen International Graduate School, Open FIESTA
+
 %}
 %% Set parameters
 clear; clc; close all;

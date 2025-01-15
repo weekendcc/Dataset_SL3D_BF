@@ -14,12 +14,6 @@ output:
     data: point cloud data 
     ptCloud: data converted to pointCloud 
 
-Li Yiming <liyiming21@mails.tsinghua.edu.cn>
-Tsinghua Shenzhen International Graduate School, Pengcheng Laboratory 
-Li Zinan <lizn23@mails.tsinghua.edu.cn>
-Tsinghua Shenzhen International Graduate School, Tsinghua Berkeley Shenzhen Institute
-Chen Weikang <chenwk23@mails.tsinghua.edu.cn>
-Tsinghua Shenzhen International Graduate School, Open FIESTA
 %}
 %%
 function [data, ptCloud] = phase2pc(LUT_path, phase_path, mask_path, zmin, zmax)
