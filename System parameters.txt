@@ -7,7 +7,7 @@ Focal length of camera:25
 Projector position matrix:[109.68130095666692, -12.826334848334348, 620.7319653889167]
 Projector rotation matrix:[-3.135848393011977, -0.20634197058531925, 0.00849416240534685]
 
-Intrinsic Parameters:
+Intrinsic parameters:
 Camera K:	[7.42168260e+03,       0,                 			-7.14794303e+00],
   			[0,                 			7.42295642e+03,        4.03181856e+02	],
      			[0,                 			0,                 			1				]
